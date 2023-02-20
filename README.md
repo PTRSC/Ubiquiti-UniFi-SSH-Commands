@@ -8,6 +8,7 @@
     
 ### Reset AP to Factory Default
 Before and after v2.2.x - `syswrapper.sh restore-default`
+
 After v2.2.x - `set-default`
 
 ### Manually Upgrade AP
